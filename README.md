@@ -90,7 +90,7 @@ pip install xgboost pandas numpy scikit-learn matplotlib
 ```
 
 ### Running the Backtest
-Open `PolyMind_Strategy.ipynb` and run all cells to:
+Open `PolyMind_Arbitrage_Engine.ipynb` and run all cells to:
 1.  Generate fresh synthetic market data.
 2.  Train the XGBoost model in real-time.
 3.  Visualize the PnL curve against a Naive Bot.
