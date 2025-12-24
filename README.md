@@ -1,6 +1,3 @@
-```markdown
-<div align="center">
-
 # 🧠 PolyMind: AI-Gated Quantitative Execution Engine
 ### *Institutional-Grade Arbitrage Strategy for Prediction Markets*
 
