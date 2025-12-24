@@ -103,7 +103,7 @@ Open `PolyMind_Strategy.ipynb` and run all cells to:
 
 *   **Research:** [ReasonBench (LLM Evaluation)](https://github.com/eatosin/ReasonBench)
 *   **Engineering:** [Sentinel (MLOps)](https://github.com/eatosin/Sentinel-MLOps)
-*   **Forensics:** [Spectre (Deepfake Detection)](https://github.com/eatosin/Spectre-Deepfake-Detector)
+*   **Forensics:** [Spectre (Deepfake Detection)](https://github.com/eatosin/Spectre-Deepfake-Detection)
 
 ---
 *Disclaimer: This software is for educational and research purposes only. Do not use for live financial trading without rigorous risk management.*
