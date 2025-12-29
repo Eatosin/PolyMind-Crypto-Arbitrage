@@ -1,0 +1,6 @@
+xgboost
+pandas
+numpy
+scikit-learn
+matplotlib
+py-clob-client
