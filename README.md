@@ -107,4 +107,10 @@ Open `PolyMind_Arbitrage_Engine.ipynb` and run all cells to:
 
 ---
 *Disclaimer: This software is for educational and research purposes only. Do not use for live financial trading without rigorous risk management.*
-```
+
+---
+### ⚠️ Risk Disclosure
+**This software is a theoretical backtest simulation.**
+*   Results generated using synthetic order book data to demonstrate the XGBoost probability engine.
+*   Live market conditions (latency, slippage, fees) may vary significantly.
+*   This code is for **educational and engineering portfolio purposes only** and does not constitute financial advice.
