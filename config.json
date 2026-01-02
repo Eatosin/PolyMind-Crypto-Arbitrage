@@ -1,0 +1,17 @@
+{
+  "strategy": {
+    "name": "PolyMind_XGB_V1",
+    "asset_class": "Prediction Markets",
+    "timeframe": "1s",
+    "risk_management": {
+      "max_drawdown_limit": 0.15,
+      "position_size_usd": 1000,
+      "confidence_threshold": 0.90
+    }
+  },
+  "model": {
+    "type": "XGBoost Classifier",
+    "features": ["spread", "liquidity", "volatility"],
+    "target": "trade_success"
+  }
+}
